@@ -5,7 +5,5 @@ windowsmgr.max_events_per_sec=275
 ## cannot take spaces
 rild.libargs=-d /dev/smd0
 
-# Fields For Custom RIL
-ro.telephony.ril_class=SamsungQualcommUiccRIL
 ro.telephony.default_network=9
 telephony.lteOnGsmDevice=1
